@@ -26,7 +26,7 @@ Build the following methods on the viewer class
 + Viewer.all
   + should return all of the viewers
 + Viewer.find_by_name(name)
-  + given a string of a full name, returns the first customer whose full name matches
+  + given a string of a full name, returns the first viewer whose full name matches
 + Viewer#create_rating
   + given a score and a movie, creates a new Rating and associates it with that viewer and that movie
 
